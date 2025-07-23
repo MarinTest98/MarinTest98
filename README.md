@@ -26,7 +26,9 @@
 
 </ul>
 
-## Programming Languages
+## My Skills Include
+
+<h4>Languages</h4>
 <p>
    <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg' width='30'/>  <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' width='30'/> <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg' width='30'/>
 </p>
