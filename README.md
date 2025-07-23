@@ -30,11 +30,11 @@
 
 <h4>Languages</h4>
 <p>
-   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg'/> 
-   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg' /> 
-   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg' /> 
-   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg' /> 
-   <img src = 'https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg' />
+   <img src = 'https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white'/> 
+   <img src = 'https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' /> 
+   <img src = 'https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white' /> 
+   <img src = 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' /> 
+   <img src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
    <img src = 'https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
 </p>
 
