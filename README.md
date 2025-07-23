@@ -16,12 +16,11 @@
 <ul dir="auto">
 
 <li>Selenium</li>
-<li>Cygwin</li>
 <li>Postman</li>
 <li>Jira</li>
 <li>TestRail</li>
 <li>CI/CD</li>
-<li>AWS, Azure</li>
+<li>SQL</li>
 <li>Python</li>
 
 </ul>
