@@ -34,6 +34,7 @@
    <img src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
    <img src = 'https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
     <img src = 'https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge'/>
+	
   </span>
 
  <h4> Other Tools and Technologies </h4>
@@ -42,6 +43,7 @@
 	 <img src = 'https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white'/>
 	 <img src = 'https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
 	 <img src = 'https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white'/>
+	 <img src = 'https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white'/>
  </span>
 
 ## Who am I?
@@ -74,4 +76,6 @@
 
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1PnhZJIhXQF8-jQOZLTSOZjn69ZCp5HBK/view?usp=sharing)
+
+
 
