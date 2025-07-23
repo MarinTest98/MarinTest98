@@ -18,8 +18,6 @@
 <li>Selenium</li>
 <li>Postman</li>
 <li>Jira</li>
-<li>TestRail</li>
-<li>CI/CD</li>
 <li>SQL</li>
 <li>Python</li>
 
@@ -27,15 +25,24 @@
 
 ## My Skills Include
 
-<h4>Languages</h4>
-<p>
+<h4> Languages </h4>
+<span>
    <img src = 'https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white'/> 
    <img src = 'https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white' /> 
    <img src = 'https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white' /> 
    <img src = 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' /> 
    <img src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
    <img src = 'https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
-</p>
+    <img src = 'https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge'/>
+  </span>
+
+ <h4> Other Tools and Technologies </h4>
+
+ <span>
+	 <img src = 'https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white'/>
+	 <img src = 'https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
+	 <img src = 'https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
+ </span>
 
 ## Who am I?
  ```python
