@@ -41,7 +41,7 @@
  <span>
 	 <img src = 'https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white'/>
 	 <img src = 'https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
-	 <img src = 'https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white'/>
+	 <img src = 'https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white'/>
  </span>
 
 ## Who am I?
